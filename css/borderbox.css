@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+div{
+	height: 300px;
+	width: 300px;
+	margin: 10px;
+	
+
+}
+
+.sinBox{
+	
+	background-color:  #13A1DC;
+
+}
+.conBox{
+
+	background-color:  #1DF177;
+	border: 15px solid #C0EF1D;
+	padding: 20px;
+	box-sizing: border-box;
+}

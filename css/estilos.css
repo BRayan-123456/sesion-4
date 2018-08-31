@@ -1,0 +1,22 @@
+#caja1{
+	 border-radius: 24px;
+
+}
+.caja2{
+	border-top-left-radius: 24px;
+
+}
+.caja3{
+	clear: both;
+	border-radius: 24px 0;
+
+}
+.caja4{
+	border-top-right-radius: 50px 30px;
+
+}
+.caja5{
+	border-bottom-right-radius: 50px 30px;
+
+}
+.caja6,.caja7,.caja8,.caja9,.caja10,.caja11,.caja12

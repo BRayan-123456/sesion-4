@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+div{
+	height: 135px;
+	width: 135px;
+	margin-left: 10px;
+	float: left;
+	margin-bottom: 30px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: white;
+	border: 1px solid black;
+
+}
+img{
+	margin: -10px;
+
+}
+
+
+
